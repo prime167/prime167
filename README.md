@@ -4,11 +4,13 @@
 
 Hello, I am a .NET dev
 
-You can also find me at [bilibili](https://space.bilibili.com/47754706)
+[bilibili](https://space.bilibili.com/47754706) | [blog](https://prime167.github.io)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prime167&hide=HTML,CSS&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prime167&hide=HTML,CSS,batchfile&layout=compact)
 
-![prime167's GitHub stats](https://github-readme-stats.vercel.app/api?username=prime167&show_icons=true&theme=default)
+![prime167's GitHub stats](https://github-readme-stats.vercel.app/api?username=prime167&show_icons=true&hide_title-true&theme=default) 
+
+
 
 
 
