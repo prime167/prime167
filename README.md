@@ -10,4 +10,4 @@ Hello, I am a .NET dev
 ### 跑步数据
 ![2024](https://github.com/prime167/MyRunningLog/blob/main/2024.png)
 
-#### [往年跑步数据](https://github.com/prime167/MyRunningLog/blob/main/README.md)
+#### [往年跑步数据](https://github.com/prime167/MyRunningLog)
